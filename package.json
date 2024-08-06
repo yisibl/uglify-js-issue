@@ -1,0 +1,13 @@
+{
+  "name": "uglify-js-issue",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "gulp"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "uglifyjs-3.18.0": "npm:uglify-js@3.18.0",
+    "uglifyjs-3.19.0": "npm:uglify-js@3.19.0"
+  }
+}
